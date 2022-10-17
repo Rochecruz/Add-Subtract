@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Add &amp; Subtract two numbers</string>
+    <string name="result">RESULT :</string>
+    <string name="add">ADD</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="_00">00</string>
+</resources>
